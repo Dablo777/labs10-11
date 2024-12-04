@@ -1,0 +1,7 @@
+﻿  lab10.3.cpp
+C:\Users\User\source\repos\lab10.3\lab10.3.cpp(307,17): error C2374: 'filename': redefinition; multiple initialization
+      C:\Users\User\source\repos\lab10.3\lab10.3.cpp(254,12):
+      see declaration of 'filename'
+  
+C:\Users\User\source\repos\lab10.3\lab10.3.cpp(327,5): error C2653: 'Assert': is not a class or namespace name
+C:\Users\User\source\repos\lab10.3\lab10.3.cpp(327,13): error C3861: 'IsFalse': identifier not found
